@@ -68,13 +68,13 @@ margin-top: 490px;
 
 border: 3px solid #C0C0C0;
 
-width:  1808px;
+width:  100%;
 
 background-color: #fbf4f4;
 }
 .first-part{
     text-align:  center;
-    width: 600px;
+    width: 32%;
 }
 .first-part img{text-align: center;
 }
@@ -101,7 +101,7 @@ background-color: #fbf4f4;
     border-radius: 5px;
 }
 .second-part{
-    width:  600px;
+    width:  32%;
 }
 .second-part img{
     margin-left: 140px;
@@ -127,7 +127,7 @@ background-color: #fbf4f4;
     border-radius: 5px;
 }
 
-.third-part { width: 600px }
+.third-part { width: 32%; }
 .third-part h2{
     font-size:  32px;
     color:  #ADAAA5;
