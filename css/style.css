@@ -154,10 +154,11 @@ background-color: #fbf4f4;
 
 
 .footer{    position: absolute;
+    width: 100%;
     margin-top: 410px;}
 
     .content-section-two{
-    margin-left:  560px;
+    
     text-align:  center;
 }
     .content-section-two h2{
